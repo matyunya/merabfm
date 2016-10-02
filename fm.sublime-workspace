@@ -1,0 +1,1968 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dancefloor",
+				"dancefloor_price\t(ticket_prices_form.js.jsx)"
+			],
+			[
+				"dance",
+				"dancefloor"
+			],
+			[
+				"price",
+				"price_type"
+			],
+			[
+				"inn",
+				"inline"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"show",
+				"showTooltip"
+			],
+			[
+				"dan",
+				"dancefloor_price\t(edit.html.erb)"
+			],
+			[
+				"da",
+				"dancefloor_price\t(hall_form.js.jsx)"
+			],
+			[
+				"update",
+				"updateDancefloorPrice"
+			],
+			[
+				"upda",
+				"updateDancefloorPrice"
+			],
+			[
+				"conc",
+				"concert_path"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"conert",
+				"concert_id"
+			],
+			[
+				"dancef",
+				"dancefloor_price"
+			],
+			[
+				"danc",
+				"dancefloor_price\t(concerts_controller.rb)"
+			],
+			[
+				"has_",
+				"has_dancefloor\t(concerts_controller.rb)"
+			],
+			[
+				"ha",
+				"has_dancefloor"
+			],
+			[
+				"sl",
+				"selectEntireRow"
+			],
+			[
+				"chan",
+				"changePriceToSet"
+			],
+			[
+				"setS",
+				"setSelected\t(hall_form.js.jsx)"
+			],
+			[
+				"row_p",
+				"row_prices"
+			],
+			[
+				"selet",
+				"selected_seats"
+			],
+			[
+				"row_",
+				"row_price"
+			],
+			[
+				"hal",
+				"hall_id"
+			],
+			[
+				"pric",
+				"priceToSet"
+			],
+			[
+				"sel",
+				"selected_seats"
+			],
+			[
+				"se_",
+				"selected_seats"
+			],
+			[
+				"selected",
+				"selected_seats"
+			],
+			[
+				"getI",
+				"getInitialState\t(price_row.js.jsx)"
+			],
+			[
+				"set",
+				"setPrices"
+			],
+			[
+				"padd",
+				"paddingBottom"
+			],
+			[
+				"get",
+				"getInitialState\t(hall_form.js.jsx)"
+			],
+			[
+				"ticke",
+				"tickets_path"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"GM",
+				"GMAIL_PASS\t(production.rb)"
+			],
+			[
+				"create",
+				"created_at\t(ticket.rb)"
+			],
+			[
+				"di",
+				"discount_reason\t(schema.rb)"
+			],
+			[
+				"retu",
+				"return_amount"
+			],
+			[
+				"disc",
+				"discount_amount"
+			],
+			[
+				"dic",
+				"discount_amount\t(new.html.erb)"
+			],
+			[
+				"coc",
+				"concert_date"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"return_a",
+				"return_amount_rate"
+			],
+			[
+				"onC",
+				"onChange"
+			],
+			[
+				"onCh",
+				"onChangeSeat"
+			],
+			[
+				"ar",
+				"archive\t(20160126170222_add_archive_to_concerts.rb)"
+			],
+			[
+				"cas",
+				"cashbox"
+			],
+			[
+				"tra",
+				"transfer"
+			],
+			[
+				"prc",
+				"prices_as_json"
+			],
+			[
+				"sandb",
+				"sandbox"
+			],
+			[
+				"ca",
+				"cashbox"
+			],
+			[
+				"prices",
+				"prices_as_json"
+			],
+			[
+				"uniq",
+				"uniquePrices"
+			],
+			[
+				"hel",
+				"helper_method"
+			],
+			[
+				"mode",
+				"MODERATED"
+			],
+			[
+				"for",
+				"formats"
+			],
+			[
+				"aut",
+				"authenticate_admin\t(admin_controller.rb)"
+			],
+			[
+				"co",
+				"concert"
+			],
+			[
+				"tickets",
+				"tickets_path\t(new.html.erb)"
+			],
+			[
+				"tick",
+				"ticket_params"
+			],
+			[
+				"des",
+				"destroy\t(concerts_controller.rb)"
+			],
+			[
+				"descr",
+				"description\t(concerts_controller.rb)"
+			],
+			[
+				"phone",
+				"phoneString"
+			],
+			[
+				"wor",
+				"workerClassName"
+			],
+			[
+				"wo",
+				"workerClassName"
+			],
+			[
+				"advre",
+				"adverts_by_gstype"
+			],
+			[
+				"valu",
+				"valueIfHasNode"
+			],
+			[
+				"DIS",
+				"DISHWASHER_VALUE"
+			],
+			[
+				"room",
+				"roomsString"
+			],
+			[
+				"mis",
+				"missCounter"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"sub",
+				"suburbian"
+			],
+			[
+				"proper",
+				"propertyType"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"stor",
+				"storageOut"
+			],
+			[
+				"comp",
+				"complexModel"
+			],
+			[
+				"Co",
+				"ComplexModel"
+			],
+			[
+				"re",
+				"relationPath"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"Coords",
+				"coords_findNotifier"
+			],
+			[
+				"Rep",
+				"reparseSandbox"
+			],
+			[
+				"repar",
+				"reparseStackItem"
+			],
+			[
+				"avit",
+				"avitoGeo"
+			],
+			[
+				"avti",
+				"avitoGeo"
+			],
+			[
+				"Collector",
+				"CollectorFactory"
+			],
+			[
+				"AFYC",
+				"AAFYCollector"
+			],
+			[
+				"Yar",
+				"YarhouseSellParser"
+			],
+			[
+				"Feeder",
+				"feederFactory"
+			],
+			[
+				"AGEN_",
+				"AGENT_NAME"
+			],
+			[
+				"Pars",
+				"ParsingParamsModel"
+			],
+			[
+				"Yandex",
+				"YandexGenerator"
+			],
+			[
+				"form",
+				"formatDate"
+			],
+			[
+				"write",
+				"writeElement"
+			],
+			[
+				"pg_co",
+				"pg_connection_status"
+			],
+			[
+				"connect",
+				"connectID"
+			],
+			[
+				"getA",
+				"getAdvert"
+			],
+			[
+				"getAd",
+				"getAdvertInfo"
+			],
+			[
+				"end",
+				"endElement"
+			],
+			[
+				"localit",
+				"locality_geo_id"
+			],
+			[
+				"out",
+				"output_dir"
+			],
+			[
+				"Gene",
+				"generators"
+			],
+			[
+				"GE",
+				"GEOGRAPHY"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"wiki",
+				"WikimapiaApi"
+			],
+			[
+				"coor",
+				"coordsFinder"
+			],
+			[
+				"sen",
+				"sentry_key"
+			],
+			[
+				"se",
+				"sentry_key"
+			],
+			[
+				"sent",
+				"sentry_name"
+			],
+			[
+				"sellP",
+				"sellParamsTableNode"
+			],
+			[
+				"paramsTa",
+				"paramsTableNode"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"foi",
+				"font-family"
+			],
+			[
+				"result",
+				"result_title"
+			],
+			[
+				"Event",
+				"EventsTagsModel"
+			],
+			[
+				"Eve",
+				"EventsCallsModel"
+			],
+			[
+				"Even",
+				"EventsFilesModel"
+			],
+			[
+				"Deals",
+				"DealsStatistics"
+			],
+			[
+				"Data",
+				"dataProvider"
+			],
+			[
+				"Ri",
+				"RightsModel"
+			],
+			[
+				"Rig",
+				"RightsPostsModel"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"cei",
+				"ceilings"
+			],
+			[
+				"value",
+				"value-of"
+			],
+			[
+				"tem",
+				"apply-templates"
+			],
+			[
+				"Exp",
+				"ExportManager"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"parsing",
+				"parsingParams"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 14134,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "babel",
+		"selected_items":
+		[
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git c",
+				"Git: Checkout Current File"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pagack",
+				"Package Control: Install Package"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"git show ",
+				"Git: Show Current File"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gitck",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set state",
+				"Snippet: React: this.setState({ ... })"
+			],
+			[
+				"react",
+				"Snippet: React: render: fn() { return ... }"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"git checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git lgo",
+				"Git: Log Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git lof ",
+				"Git: Log Current File"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"refresf",
+				"Project: Refresh Folders"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"packavi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Format ",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac/Sites/merab/fm"
+	],
+	"file_history":
+	[
+		"/Users/mac/Sites/vasiliev/package.json",
+		"/Users/mac/Sites/vasiliev/src/routes/Home/components/HomeView.js",
+		"/Users/mac/Sites/vasiliev/README.md",
+		"/Users/mac/Sites/vasiliev/src/routes/Counter/components/Text.js",
+		"/Users/mac/Sites/merab/fm/.git/config",
+		"/Users/mac/Sites/vasiliev/.gitignore",
+		"/Users/mac/Sites/seebe/app/app/views/visitors/index.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/tickets/show.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/cashboxes/index.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/layouts/application.html.erb",
+		"/Users/mac/Sites/seebe/app/Gemfile",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/hall_form.js.jsx",
+		"/Users/mac/Sites/seebe/app/public/assets/.sprockets-manifest-4cbe6f197ca561182da52b9e02e7043e.json",
+		"/Users/mac/Sites/seebe/app/app/views/concerts/edit.html.erb",
+		"/Users/mac/Sites/seebe/app/config/environments/production.rb",
+		"/Users/mac/Sites/seebe/app/app/views/concerts/new.html.erb",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket_form.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/models/ticket.rb",
+		"/Users/mac/Sites/seebe/app/config/application.rb",
+		"/Users/mac/Sites/seebe/app/app/controllers/tickets_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/models/concert.rb",
+		"/Users/mac/Sites/seebe/app/app/controllers/concerts_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/seat.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/row.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket_prices_form.js.jsx",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/section.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket_form_hidden_inputs.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket_form_tooltip.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/views/tickets/new.html.erb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160501095847_remove_rows_from_sections.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160229184129_remove_prices_from_row_prices.rb",
+		"/Users/mac/Sites/seebe/app/config/environments/development.rb",
+		"/Users/mac/Sites/seebe/app/app/models/section.rb",
+		"/Users/mac/Sites/seebe/app/app/models/row.rb",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mac/Sites/seebe/app/app/views/tickets/index.html.erb",
+		"/Users/mac/Sites/seebe/app/app/assets/stylesheets/1st_load_framework.css.scss",
+		"/Users/mac/Sites/seebe/app/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/mac/Sites/seebe/app/app/assets/stylesheets/application.scss",
+		"/Users/mac/Sites/seebe/app/public/assets/application-6565c38bae89989680ad3d9bf1993a46a7547359e69f22740c9b8da4f0f725ab.css",
+		"/Users/mac/Sites/seebe/app/app/views/concerts/index.html.erb",
+		"/Users/mac/Sites/seebe/app/app/controllers/admin_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/controllers/row_prices_controller.rb",
+		"/Users/mac/Sites/seebe/app/config/database.yml",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/dancefloor_section.js.jsx",
+		"/Users/mac/Sites/seebe/app/public/assets/components/ticket_form_tooltip-972e1a2c464716101f0d3158dc2bba88f80c7dd92eaee41f558d10d20b33e027.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket.js.jsx",
+		"/Users/mac/Sites/seebe/app/log/development.log",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160404204614_make_price_not_nullable.rb",
+		"/Users/mac/Sites/seebe/app/app/controllers/halls_controller.rb",
+		"/Users/mac/Sites/seebe/app/config/routes.rb",
+		"/Users/mac/Sites/seebe/app/app/views/halls/edit.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/ticket_mailer/ticket_email.html.erb",
+		"/Users/mac/Sites/seebe/app/config/application.yml",
+		"/Users/mac/go/src/ggg/g.go",
+		"/Users/mac/Sites/seebe/app/app/views/layouts/_nav_links_for_auth.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/cashboxes/show.html.erb",
+		"/Users/mac/Sites/seebe/app/app/mailers/ticket_mailer.rb",
+		"/Users/mac/Sites/seebe/seebe.sublime-project",
+		"/Users/mac/Sites/seebe/app/app/views/devise/passwords/edit.html.erb",
+		"/Users/mac/Sites/seebe/app/config.ru",
+		"/Users/mac/Sites/seebe/app/public/assets/components/hall_form-c66cd90053b535950349b55cd01da53e319e1869f2e5d08a7476c3a66c831bca.jsx",
+		"/Users/mac/Sites/seebe/app/app/controllers/rows_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/application.js",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/price_row.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/price_seat.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/prices_form.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/price_hidden_inputs.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/price_section.js.jsx",
+		"/Users/mac/Sites/seebe/app/app/helpers/halls_helper.rb",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/price_tooltip.js.jsx",
+		"/Users/mac/Sites/test.c",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/c.sublime-build",
+		"/Users/mac/Sites/seebe/app/app/assets/javascripts/components/ticket_price_form.js.jsx",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mac/Sites/seebe/app/app/models/price.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160221123814_add_row_to_row_price.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160221124530_add_prices_to_row_price.rb",
+		"/Users/mac/Sites/seebe/app/app/models/row_price.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160221123839_add_prices_to_row_prices.rb",
+		"/Users/mac/Sites/seebe/app/app/views/layouts/_navigation.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/devise/mailer/password_change.html.erb",
+		"/Users/mac/Sites/seebe/app/vendor/bundle/ruby/2.0.0/gems/devise-3.5.3/app/views/devise/mailer/reset_password_instructions.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/devise/mailer/reset_password_instructions.html.erb",
+		"/Users/mac/Sites/seebe/app/app/views/devise/mailer/unlock_instructions.html.erb",
+		"/Users/mac/Sites/seebe/app/config/environment.rb",
+		"/Users/mac/Sites/seebe/app/app/views/tickets/check_in.html.erb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160210194233_add_check_in_to_tickets.rb",
+		"/Users/mac/Sites/seebe/app/app/models/user.rb",
+		"/Users/mac/.bash_profile",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160203040230_add_hash_to_tickets.rb",
+		"/Users/mac/Sites/seebe/app/config/initializers/paperclip.rb",
+		"/Users/mac/Sites/seebe/app/vendor/bundle/ruby/2.0.0/gems/foundation-rails-5.5.3.2/vendor/assets/stylesheets/foundation/_settings.scss",
+		"/Users/mac/Sites/seebe/app/app/models/cashbox.rb",
+		"/Users/mac/Sites/seebe/app/db/schema.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160126170222_add_archive_to_concerts.rb",
+		"/Users/mac/Sites/seebe/app/app/views/users/index.html.erb",
+		"/Users/mac/Sites/seebe/app/app/controllers/cashboxes_controller.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160124173408_add_transfer_to_tickets.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160124173132_add_transfer_to_tickets.rb",
+		"/Users/mac/Sites/seebe/app/app/views/users/_user.html.erb",
+		"/Users/mac/Sites/seebe/app/app/controllers/application_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/controllers/users_controller.rb",
+		"/Users/mac/Desktop/agenton/libs/Publisher/Afy/AafyPublishQueue.php",
+		"/Users/mac/Desktop/agenton/libs/Publisher/Afy/afy.class.php",
+		"/Users/mac/Desktop/agenton/libs/Publisher/Afy/afyPublisher.class.php",
+		"/Users/mac/Desktop/agenton/libs/Publisher/Afy/afyRentPublishQueue.php",
+		"/Users/mac/Desktop/agenton/libs/Publisher/Afy/afySellPublishQueue.php",
+		"/Users/mac/Sites/seebe/app/app/controllers/registrations_controller.rb",
+		"/Users/mac/Sites/seebe/app/vendor/bundle/ruby/2.0.0/gems/devise-3.5.3/app/controllers/devise/registrations_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/models/hall.rb",
+		"/Users/mac/Sites/seebe/app/lib/assets/halls.json",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117142930_add_section_id_to_tickets.rb",
+		"/Users/mac/Sites/seebe/app/app/views/rows/index.html.erb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117123123_add_prices_to_rows.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117120946_add_rows_to_section.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117120355_add_prices_to_concerts.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117115337_add_sections_to_halls.rb",
+		"/Users/mac/Sites/seebe/app/app/views/halls/new.html.erb",
+		"/Users/mac/Sites/seebe/app/config/initializers/simple_form.rb",
+		"/Users/mac/Sites/seebe/app/db/migrate/20160117114250_add_prices_to_rows.rb",
+		"/Users/mac/Sites/seebe/app/config/initializers/devise_permitted_parameters.rb",
+		"/Users/mac/Sites/seebe/app/vendor/bundle/ruby/2.0.0/gems/railties-4.2.5/lib/rails/welcome_controller.rb",
+		"/Users/mac/Sites/seebe/app/app/views/devise/registrations/edit.html.erb",
+		"/Users/mac/Sites/seebe/app/vendor/bundle/ruby/2.0.0/gems/kaminari-0.16.3/spec/requests/users_spec.rb",
+		"/Users/mac/Sites/seebe/app/app/helpers/devise_helper.rb"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/mac/Sites/seebe/app/",
+			"/Users/mac/Sites/seebe/app/app/",
+			"/Users/mac/Sites/seebe/app/app/assets/javascripts/components",
+			"/Users/mac/Sites/seebe/app/db/migrate",
+			"/Users/mac/Sites/seebe",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/",
+			"/Users/mac/Desktop/agenton/libs/Supervisor",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/js",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Model",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/libs/vendor",
+			"/Users/mac/Desktop/agenton/libs/Parser",
+			"/Users/mac/Desktop/agenton/libs/Collector",
+			"/Users/mac/Desktop/agenton/libs/collector",
+			"/Users/mac/Desktop/agenton/",
+			"<current file>",
+			"/Users/mac/Desktop/agenton/",
+			"",
+			"<current file>",
+			"",
+			"/Users/mac/Desktop/agenton/libs/Model",
+			"/Users/mac/Desktop/agenton/",
+			"",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Exporter",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Model",
+			"/Users/mac/Desktop/agenton/libs/Cache",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Model/",
+			"/Users/mac/Desktop/agenton/libs/Cache/",
+			"/Users/mac/Desktop/agenton/tools.agenton2.ru/Cache/",
+			"/Users/mac/Desktop/agenton/tools.agenton2.ru",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs/Model",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/libs/parser",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Collector",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/parser",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/parser",
+			"/Users/mac/Desktop/agenton\\libs\\parser",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs/",
+			"/Users/mac/Desktop/agenton/libs/Exporter/",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Search",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/agenton3.ru",
+			"/Users/mac/Desktop/agenton/agenton3*",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/tools.agenton2.ru",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/parser",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/tools.agenton2.ru",
+			"/Users/mac/Desktop/agenton/tools.agenton.ru",
+			"/Users/mac/Desktop/agenton/api.agenton.ru",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/dev",
+			"/Users/mac/dev/libs",
+			"/Users/mac/dev/tools.agenton2.ru/pages",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test",
+			"deploy",
+			"Василиев",
+			"Васильев",
+			"S E E B E",
+			"visitors",
+			"***С Е Е Б Е****",
+			"large-2",
+			"\"large-2",
+			"line-right",
+			"right",
+			"large",
+			"sass-rails",
+			"side-text",
+			"line-",
+			"side-text",
+			"line",
+			"line-left",
+			"vertical-text",
+			"image",
+			"qr",
+			"age",
+			"qr",
+			"Возрастное ограничение",
+			"onfig.assets.initialize_on_precompile",
+			"getSections",
+			"Укажите цену для выбранных мест",
+			"setState",
+			"tooltip",
+			"tooltop",
+			"tooltip",
+			"assets",
+			"getSections",
+			"getSec",
+			"<TicketForm",
+			"<Section",
+			"sec",
+			"RowPrices",
+			"edit.html",
+			"font",
+			"console.log(prices)",
+			"edit",
+			"row_pri",
+			"filterRowPrices",
+			"setPrices",
+			"updatePrices",
+			"row_prices",
+			"getRowPrices",
+			"row_prices",
+			"taken",
+			"dancefloor",
+			"price_type",
+			"price",
+			"each",
+			"section",
+			"Танцпол",
+			"dance",
+			"dancefloor",
+			"Azure",
+			"dancef",
+			"DancefloorSection",
+			"dancefloor",
+			"dancef",
+			"<%=@",
+			"\"image",
+			".age",
+			"@page",
+			"@print",
+			"Grey",
+			"Pale",
+			"Dark",
+			"White",
+			"Gray",
+			"default_scope",
+			"TicketForm",
+			"ticketForm",
+			"tooltip",
+			"\"",
+			"seebee",
+			"a ",
+			"Билет",
+			"decoration:",
+			"link",
+			"top-bar",
+			"top_bar",
+			"top-bar",
+			"red",
+			"green",
+			"color:red",
+			"\"red\"",
+			"'red'",
+			"red",
+			"#",
+			"//",
+			"color",
+			"button",
+			" ",
+			"} ",
+			"tickets",
+			"taken",
+			"https://fonts.googleapis.com/css?family=Kelly+Slab&subset=cyrilli",
+			"getColor",
+			"setSelected",
+			"sele",
+			"updatePrices",
+			"show",
+			"showTooltip",
+			"seebee",
+			"1",
+			"3",
+			"4",
+			"5",
+			"4",
+			"100",
+			"6",
+			"5",
+			"100",
+			"6",
+			"100",
+			"7",
+			"8",
+			"7",
+			"9",
+			"8",
+			"9",
+			"serve",
+			"assets",
+			"'25'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</div>\n<%= devise_error_messages! %>\n<div class=\"main\">",
+			"\n",
+			"/>\n",
+			" ",
+			"$this->validate($data);",
+			">\n",
+			"new \\pg_query",
+			"Libs\\Common\\ToolsAuth",
+			"Auth",
+			"",
+			"'/Common/sphinxapi.php'",
+			"'/Сommon/sphinxapi.php'",
+			"\\Libs\\Cache\\CacheFactory::",
+			"",
+			"/Cache/functions.php",
+			"",
+			"new \\Libs\\Common\\SphinxClient;",
+			"",
+			" \\GearmanClient",
+			"use \\Libs\\Common\\FileUpload;",
+			"use \\Libs\\Common\\Page;",
+			"SearchStats",
+			"new \\Libs\\Api\\UsersData",
+			"",
+			"Libs\\Common\\CmaReport::",
+			"Libs\\Common\\GeoHelper::",
+			"",
+			"new \\Libs\\Common\\Page",
+			"",
+			"\\Libs\\Common\\Page::",
+			"use Libs\\Common\\Useragent;",
+			"\\Libs\\Common\\Validate::",
+			"!\\Libs\\Common\\Validate::",
+			"",
+			"new \\DOMXPath",
+			"\\Libs\\Common\\Validate::",
+			"",
+			" \\Libs\\Common\\Grabber::",
+			"",
+			"use \\Libs\\Feeder\\Proxy;",
+			"(DescriptionParser::",
+			"(\\DescriptionParser::",
+			" \\Libs\\Common\\Normalize::",
+			"Raven_Client",
+			"\\Pimple\\Container $libs",
+			"namespace Libs\\Model;",
+			"new Libs\\Geo\\Geo(",
+			"\\Libs\\Parser\\Helper\\AddressFinder",
+			"",
+			"new Libs\\Geo\\Detector",
+			"Geo/Detector.php",
+			"Geo/Geo.php",
+			"Model/Model.php",
+			"namespace Libs\\Search;",
+			"namespace Libs\\Exporter\\Generators;",
+			"namespace Libs\\Exporter\\Collectors;",
+			"Libs\\Search\\Storage\\DealStorage",
+			"MMC::",
+			"Libs\\Model\\MMC::\n",
+			"}\n",
+			"",
+			"\\Libs\\Common\\Normalize::\n",
+			"}\n",
+			"",
+			"Libs\\Common\\Normalize::",
+			"Libs\\Api\\AgentonAPIClient",
+			"namespace libs\\search;",
+			"use Libs\\Search\\DataProvider\\ADataProvider;",
+			"    ",
+			"<span class=\"rur\">p<span>уб.</span>",
+			"&#8381;",
+			"/",
+			"50—100 $",
+			"'80 $ за",
+			"",
+			"1",
+			"",
+			"B72134",
+			"C35E6B",
+			"error_reporting(E_ALL & ~(E_STRICT|E_NOTICE));",
+			"",
+			"     ",
+			"    ",
+			"        ",
+			") {",
+			"    ",
+			"",
+			"Календарь",
+			"&&\n\n",
+			"&&\n",
+			" ",
+			"SO.",
+			"POS.",
+			"F_ORDER_ID",
+			"f_order_id",
+			"F_POS_ID",
+			"LEFT",
+			"SO.",
+			"POS.",
+			"F_ORDER_ID",
+			"F_POS_ID",
+			"} elseif ",
+			"",
+			"javbox",
+			"Importing",
+			"set",
+			"elseif",
+			"} else if ",
+			"} else {",
+			"cloud",
+			"OpencloudClient",
+			"cloud",
+			"188.42.224.197"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 25.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 25.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "Packages/User/c.sublime-build",
+	"project": "fm.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"home",
+				"src/routes/Home/components/HomeView.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"text",
+				"src/routes/Counter/components/Text.js"
+			],
+			[
+				"index.",
+				"app/app/views/cashboxes/index.html.erb"
+			],
+			[
+				"show",
+				"app/app/views/tickets/show.html.erb"
+			],
+			[
+				"product",
+				"app/config/environments/production.rb"
+			],
+			[
+				"gem",
+				"app/Gemfile"
+			],
+			[
+				"ticketco",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"ticket",
+				"app/app/models/ticket.rb"
+			],
+			[
+				"hall_f",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"concert.",
+				"app/app/models/concert.rb"
+			],
+			[
+				"concerts_c",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"ticket_c",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"ticket.",
+				"app/app/models/ticket.rb"
+			],
+			[
+				"section.",
+				"app/app/assets/javascripts/components/section.js.jsx"
+			],
+			[
+				"remove_from",
+				"app/db/migrate/20160229184129_remove_prices_from_row_prices.rb"
+			],
+			[
+				"20160501095847_remove_rows_from_sections",
+				"app/db/migrate/20160501095847_remove_rows_from_sections.rb"
+			],
+			[
+				"row",
+				"app/app/models/row.rb"
+			],
+			[
+				"section",
+				"app/app/models/section.rb"
+			],
+			[
+				"tickets_",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"tickets_c",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"concerts",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"develo",
+				"app/config/environments/development.rb"
+			],
+			[
+				"application.cs",
+				"app/app/assets/stylesheets/application.scss"
+			],
+			[
+				"index",
+				"app/app/views/concerts/index.html.erb"
+			],
+			[
+				"adminco",
+				"app/app/controllers/admin_controller.rb"
+			],
+			[
+				"concert_c",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"row_pr",
+				"app/app/controllers/row_prices_controller.rb"
+			],
+			[
+				"ticketc",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"tickets",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"prod",
+				"app/config/environments/production.rb"
+			],
+			[
+				"tooltip",
+				"app/app/assets/javascripts/components/ticket_form_tooltip.js.jsx"
+			],
+			[
+				"edit",
+				"app/app/views/concerts/edit.html.erb"
+			],
+			[
+				"develop",
+				"app/config/environments/development.rb"
+			],
+			[
+				"development.rb",
+				"app/config/environments/development.rb"
+			],
+			[
+				"produ",
+				"app/config/environments/production.rb"
+			],
+			[
+				"seat",
+				"app/app/assets/javascripts/components/seat.js.jsx"
+			],
+			[
+				"concerts_",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"ticketsnew",
+				"app/app/views/tickets/new.html.erb"
+			],
+			[
+				"new",
+				"app/app/views/concerts/new.html.erb"
+			],
+			[
+				"concertc",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"tickets_co",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"row_pri",
+				"app/app/controllers/row_prices_controller.rb"
+			],
+			[
+				"ticket.rb",
+				"app/app/models/ticket.rb"
+			],
+			[
+				"ticket_f",
+				"app/app/assets/javascripts/components/ticket_form.js.jsx"
+			],
+			[
+				"new.",
+				"app/app/views/concerts/new.html.erb"
+			],
+			[
+				"ticket_form",
+				"app/app/assets/javascripts/components/ticket_form.js.jsx"
+			],
+			[
+				"ticketsco",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"hall",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"hallform",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"ticker_f",
+				"app/app/assets/javascripts/components/ticket_prices_form.js.jsx"
+			],
+			[
+				"concerts/",
+				"app/app/views/concerts/index.html.erb"
+			],
+			[
+				"halls_c",
+				"app/app/controllers/halls_controller.rb"
+			],
+			[
+				"adminc",
+				"app/app/controllers/admin_controller.rb"
+			],
+			[
+				"hallsco",
+				"app/app/controllers/halls_controller.rb"
+			],
+			[
+				"routes",
+				"app/config/routes.rb"
+			],
+			[
+				"concertc_",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"make_pri",
+				"app/db/migrate/20160404204614_make_price_not_nullable.rb"
+			],
+			[
+				"ticket.r",
+				"app/app/models/ticket.rb"
+			],
+			[
+				"show.",
+				"app/app/views/tickets/show.html.erb"
+			],
+			[
+				"gemfi",
+				"app/Gemfile"
+			],
+			[
+				"production",
+				"app/config/environments/production.rb"
+			],
+			[
+				"tieckets_c",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"ind",
+				"app/app/views/tickets/index.html.erb"
+			],
+			[
+				"admin",
+				"app/app/controllers/admin_controller.rb"
+			],
+			[
+				"route",
+				"app/config/routes.rb"
+			],
+			[
+				"",
+				"seebe.sublime-project"
+			],
+			[
+				"ge",
+				"app/Gemfile"
+			],
+			[
+				"show.html",
+				"app/app/views/tickets/show.html.erb"
+			],
+			[
+				"concerts_co",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"section.js",
+				"app/app/assets/javascripts/components/section.js.jsx"
+			],
+			[
+				"ticket_fo",
+				"app/app/assets/javascripts/components/ticket_form.js.jsx"
+			],
+			[
+				"concert",
+				"app/app/models/concert.rb"
+			],
+			[
+				"hall_fo",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"ticketprice",
+				"app/app/assets/javascripts/components/ticket_prices_form.js.jsx"
+			],
+			[
+				"hallfo",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"dance",
+				"app/app/assets/javascripts/components/dancefloor_section.js.jsx"
+			],
+			[
+				"concret",
+				"app/app/models/concert.rb"
+			],
+			[
+				"ticket_co",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"hidden_inpu",
+				"app/app/assets/javascripts/components/ticket_form_hidden_inputs.js.jsx"
+			],
+			[
+				"concert_co",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"seat.js",
+				"app/app/assets/javascripts/components/seat.js.jsx"
+			],
+			[
+				"row.js",
+				"app/app/assets/javascripts/components/row.js.jsx"
+			],
+			[
+				"produc",
+				"app/config/environments/production.rb"
+			],
+			[
+				"producti",
+				"app/config/environments/production.rb"
+			],
+			[
+				"config",
+				"app/config.ru"
+			],
+			[
+				"ticket_con",
+				"app/app/controllers/tickets_controller.rb"
+			],
+			[
+				"hall_fa",
+				"app/public/assets/components/hall_form-c66cd90053b535950349b55cd01da53e319e1869f2e5d08a7476c3a66c831bca.jsx"
+			],
+			[
+				"new.html",
+				"app/app/views/concerts/new.html.erb"
+			],
+			[
+				"row_rpce",
+				"app/app/controllers/row_prices_controller.rb"
+			],
+			[
+				"row_prices_c",
+				"app/app/controllers/row_prices_controller.rb"
+			],
+			[
+				"row_prc",
+				"app/app/controllers/row_prices_controller.rb"
+			],
+			[
+				"row_c",
+				"app/app/controllers/rows_controller.rb"
+			],
+			[
+				"concertco",
+				"app/app/controllers/concerts_controller.rb"
+			],
+			[
+				"row.",
+				"app/app/assets/javascripts/components/row.js.jsx"
+			],
+			[
+				"hall_",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"application",
+				"app/config/application.rb"
+			],
+			[
+				"gemfile",
+				"app/Gemfile"
+			],
+			[
+				"gemfil",
+				"app/Gemfile"
+			],
+			[
+				"applica",
+				"app/app/assets/javascripts/application.js"
+			],
+			[
+				"price_row",
+				"app/app/assets/javascripts/components/price_row.js.jsx"
+			],
+			[
+				"price_sea",
+				"app/app/assets/javascripts/components/price_seat.js.jsx"
+			],
+			[
+				"price_ro",
+				"app/app/assets/javascripts/components/price_row.js.jsx"
+			],
+			[
+				"price_seat",
+				"app/app/assets/javascripts/components/price_seat.js.jsx"
+			],
+			[
+				"row.jsx",
+				"app/app/assets/javascripts/components/row.js.jsx"
+			],
+			[
+				"pricesec",
+				"app/app/assets/javascripts/components/price_section.js.jsx"
+			],
+			[
+				"pricese",
+				"app/app/assets/javascripts/components/price_seat.js.jsx"
+			],
+			[
+				"indputs",
+				"app/app/assets/javascripts/components/price_hidden_inputs.js.jsx"
+			],
+			[
+				"price_se",
+				"app/app/assets/javascripts/components/price_seat.js.jsx"
+			],
+			[
+				"hallh",
+				"app/app/helpers/halls_helper.rb"
+			],
+			[
+				"price_hi",
+				"app/app/assets/javascripts/components/price_hidden_inputs.js.jsx"
+			],
+			[
+				"appli",
+				"app/app/assets/stylesheets/application.scss"
+			],
+			[
+				"new.ht",
+				"app/app/views/concerts/new.html.erb"
+			],
+			[
+				"ticketfo",
+				"app/app/assets/javascripts/components/ticket_form.js.jsx"
+			],
+			[
+				"hallfor",
+				"app/app/assets/javascripts/components/hall_form.js.jsx"
+			],
+			[
+				"admin_c",
+				"app/app/controllers/admin_controller.rb"
+			],
+			[
+				"row_r",
+				"app/app/models/row_price.rb"
+			],
+			[
+				"20160221124530_add_prices_to_row_price",
+				"app/db/migrate/20160221124530_add_prices_to_row_price.rb"
+			],
+			[
+				"addrowtorowprice",
+				"app/db/migrate/20160221123814_add_row_to_row_price.rb"
+			],
+			[
+				"rowpric",
+				"app/db/migrate/20160221123814_add_row_to_row_price.rb"
+			],
+			[
+				"addpricestorowprices",
+				"app/db/migrate/20160221123839_add_prices_to_row_prices.rb"
+			],
+			[
+				"price",
+				"app/app/models/price.rb"
+			],
+			[
+				"envi",
+				"app/config/environment.rb"
+			],
+			[
+				"20160210194233_add_check_in_to_tickets",
+				"app/db/migrate/20160210194233_add_check_in_to_tickets.rb"
+			],
+			[
+				"user",
+				"app/app/models/user.rb"
+			],
+			[
+				"ticket_",
+				"app/app/assets/javascripts/components/ticket_form.js.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/yahon/yahon.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "go t",
+		"selected_items":
+		[
+			[
+				"go t",
+				"goTo"
+			]
+		],
+		"width": 899.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
