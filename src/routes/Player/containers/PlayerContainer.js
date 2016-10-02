@@ -1,5 +1,5 @@
 import { connect } from 'react-redux'
-import { play } from '../modules/counter'
+import { play } from '../modules/player'
 import Player from '../components/Player'
 
 const mapDispatchToProps = {
